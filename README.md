@@ -1,4 +1,4 @@
 # student-demo
 my first git repository
 <br>
-author - Alok Chaturvedi
+author - Alok Chaturvedi(Gorakhpur)
